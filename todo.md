@@ -8,4 +8,5 @@
 
 ## Software  
 - [ ] [ToDo] Share Archivisk plugin prototype (currently only in German)  
-- [ ] [Help] Develop Archivisk plugin for Obsidian (we urgently need help from developers)  
+- [ ] [Help] Develop Archivisk plugin for Obsidian (we urgently need help from developers)
+- [ ] [ToDo] Upload documentation (currently only in German) 
