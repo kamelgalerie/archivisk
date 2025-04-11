@@ -9,7 +9,8 @@ Archivisk is an evolving initiative aimed at creating seamless workflows between
 
 #### Our Vision
 
-![One of our tools. A template for marking all dimensions. This allows the base plates and back panels to be produced in workshops without a CNC machine.](http://silaskuehn.de/wp-content/uploads/2025/02/P1025604-12-768x1023.jpg)
+![Figma prototyp](https://www.figma.com/proto/l5g6TLyWljB1PgJaaB1ab6/Version-1?page-id=333%3A8695&node-id=333-9730&viewport=-28%2C223%2C0.38&t=RifZjKEeNHGd2cyo-1&scaling=contain&content-scaling=fixed&starting-point-node-id=333%3A8696)
+![Prototyp](documentation/0_pictures/CanvasScreenshot.png)
 
 We are currently in the prototyping phase, working on building and refining the system with the help of our community. Our goal is to provide:
 
